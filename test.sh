@@ -1,0 +1,4 @@
+git commit -a -m "iroiro"
+git push
+echo "èIóπÇµÇ‹ÇµÇΩÅB"
+read Wait
