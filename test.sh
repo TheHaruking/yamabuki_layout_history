@@ -1,4 +1,4 @@
-git commit -a -m "iroiro"
+ï»¿git commit -a -m "iroiro"
 git push
-echo "I—¹‚µ‚Ü‚µ‚½B"
+echo "çµ‚äº†ã—ã¾ã—ãŸã€‚"
 read Wait
